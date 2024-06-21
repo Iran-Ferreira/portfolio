@@ -1,17 +1,18 @@
 .social {
     display: flex;
     align-items: center;
+    justify-content: space-around;
     gap: 24px;
 
-    a{
+    a {
         height: 50px;
         width: 50px;
         border: 1px solid white;
         border-radius: 100%;
         cursor: pointer;
 
-        display: flex;
+        /* display: flex;
         align-items: center;
-        justify-content: center;
+        justify-content: center; */
     }
 }
