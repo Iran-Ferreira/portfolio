@@ -4,12 +4,12 @@ import "./information.scss"
 export function Info(){
     return (
         <div className="infos">
-            <SectionTitle text="Languages"/>
+            <SectionTitle text="Linguages"/>
             <div className="languages-info">
                 <span>🇧🇷 PT-BR - Nativo</span>
                 <span>🇺🇸 Inglês - Intermediário</span>
             </div>
-            <SectionTitle text="Education"/>
+            <SectionTitle text="Educação"/>
             <div className="educational-info">
                 <span>🎓</span>
                 <span>Técnico em Informática - IFRN Parelhas</span>
