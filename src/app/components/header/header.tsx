@@ -9,7 +9,7 @@ export function Header(){
           <h2>Desenvolvedor de Software</h2>
         </div>
         <Image
-          src="/foto_borrada.jpg"
+          src="/foto_editada.jpg"
           alt="Foto de Iran Ferreira"
           width={325}
           height={310}
